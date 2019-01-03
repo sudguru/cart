@@ -79,7 +79,7 @@
 
             <div class="header-center">
                 <a href="/" class="logo">
-                    <img src="d11/assets/images/logo.png" alt="{{ $setting->site_name }}">
+                    <img src="/d11/assets/images/logo.png" alt="{{ $setting->site_name }}">
                 </a>
             </div><!-- End .headeer-center -->
 
